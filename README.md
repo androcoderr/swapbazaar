@@ -1,16 +1,25 @@
-# whatslab_4_everyone_2_latest
+# Trendyol Dolap Uygulaması Benzeri Flutter Uygulaması
 
-A new Flutter project.
+Bu proje, Trendyol'un Dolap uygulamasına benzer bir mobil uygulama geliştirmek için Flutter ve Firebase kullanılarak oluşturulmuştur. Uygulama, kullanıcıların ikinci el ürünleri alıp satmalarına olanak tanır. Kullanıcılar, ürünlerini listeleyebilir, diğer kullanıcıların ürünlerini görüntüleyebilir ve ürünler üzerinde işlem yapabilirler.
 
-## Getting Started
+## Özellikler
 
-This project is a starting point for a Flutter application.
+- **Kullanıcı Kaydı ve Girişi**: Firebase Authentication kullanarak kullanıcıların kaydolmasını ve giriş yapmasını sağlar.
+- **Ürün Listeleme**: Kullanıcılar, ürünlerini fotoğraflar, başlık, açıklama ve fiyat bilgileri ile listeleyebilir.
+- **Ürün Görüntüleme**: Kullanıcılar, diğer kullanıcıların listelediği ürünleri görüntüleyebilir.
+- **Ürün Güncelleme ve Silme**: Kullanıcılar, kendi listeledikleri ürünleri güncelleyebilir veya silebilir.
+- **Firebase Firestore**: Ürün verileri, Firebase Firestore kullanılarak depolanır ve yönetilir.
+- **Provider**: Durum yönetimi için Provider paketi kullanılmıştır.
 
-A few resources to get you started if this is your first Flutter project:
+## Gereksinimler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK
+- Dart
+- Firebase projesi (Firestore ve Authentication özellikleri etkinleştirilmiş)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Kurulum
+
+1. Bu projeyi klonlayın:
+   ```bash
+   git clone https://github.com/kullaniciadi/proje-adi.git
+   cd proje-adi
