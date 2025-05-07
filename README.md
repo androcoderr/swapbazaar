@@ -2,6 +2,16 @@
 
 Bu proje, Trendyol'un Dolap uygulamasına benzer bir mobil uygulama geliştirmek için Flutter ve Firebase kullanılarak oluşturulmuştur. Uygulama, kullanıcıların ikinci el ürünleri alıp satmalarına olanak tanır. Kullanıcılar, ürünlerini listeleyebilir, diğer kullanıcıların ürünlerini görüntüleyebilir ve ürünler üzerinde işlem yapabilirler.
 
+## Ekran Görüntüleri
+
+| Ana Sayfa | Keşfet | Ürün Detay |
+|----------|--------|------------|
+| ![1](assets/screenshots/1.jpg) | ![2](assets/screenshots/2.jpg) | ![3](assets/screenshots/3.jpg) |
+
+| Profil | Arama | Kayıt | Giriş |
+|--------|-------|-------|-------|
+| ![profil](assets/screenshots/profil.jpg) | ![search](assets/screenshots/search.jpg) | ![register](assets/screenshots/register.jpg) | ![login](assets/screenshots/login.jpg) |
+
 ## Özellikler
 
 - **Kullanıcı Kaydı ve Girişi**: Firebase Authentication kullanarak kullanıcıların kaydolmasını ve giriş yapmasını sağlar.
