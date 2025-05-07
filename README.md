@@ -6,11 +6,11 @@ Bu proje, Trendyol'un Dolap uygulamasına benzer bir mobil uygulama geliştirmek
 
 | Ana Sayfa | Keşfet | Ürün Detay |
 |----------|--------|------------|
-| ![1](assets/screenshots/1.jpg) | ![2](assets/screenshots/2.jpg) | ![3](assets/screenshots/3.jpg) |
+| ![1](assets/screenshots/1.JPG) | ![2](assets/screenshots/2.JPG) | ![3](assets/screenshots/3.JPG) |
 
 | Profil | Arama | Kayıt | Giriş |
 |--------|-------|-------|-------|
-| ![profil](assets/screenshots/profil.jpg) | ![search](assets/screenshots/search.jpg) | ![register](assets/screenshots/register.jpg) | ![login](assets/screenshots/login.jpg) |
+| ![profil](assets/screenshots/profil.JPG) | ![search](assets/screenshots/search.JPG) | ![register](assets/screenshots/register.JPG) | ![login](assets/screenshots/login.JPG) |
 
 ## Özellikler
 
